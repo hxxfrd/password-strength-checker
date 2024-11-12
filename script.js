@@ -7,8 +7,8 @@ function checkPassword() {
     const feedback = [];
 
     // Check length
-    if (password.length < 12) {
-        feedback.push("Password should be at least 12 characters long.");
+    if (password.length < 14) {
+        feedback.push("Password should be at least 14 characters long.");
     } else {
         score += 2;
     }
