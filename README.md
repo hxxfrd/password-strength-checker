@@ -2,6 +2,8 @@
 To determine the password's strength and to offer visual feedback that includes warnings and suggestions.
 The password strength checker is an online tool created with HTML, CSS, and JavaScript that assesses how secure passwords entered by users are. By assisting users in creating stronger passwords—the first line of defence against unauthorised access and data breaches—this tool is essential for improving cybersecurity.
 
+Demo
+
 How It's Built
 1. HTML: HTML is used to design the web page's structure. Users can enter their passwords in the input area, click the button to start the strength check, and see feedback in the results section. The application's accessibility and usability are guaranteed by this semantic framework.
 2. CSS: To improve the application's visual attractiveness, styling is applied using CSS. This includes changes to the layout, fonts, and colour schemes that improve the interface's usability and engagement. The application's functionality and aesthetic appeal are guaranteed by the use of CSS.
